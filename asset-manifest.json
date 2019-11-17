@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_project/static/css/main.daa52dd4.chunk.css",
+    "main.js": "/react_project/static/js/main.580dd14a.chunk.js",
+    "main.js.map": "/react_project/static/js/main.580dd14a.chunk.js.map",
+    "runtime-main.js": "/react_project/static/js/runtime-main.d412124e.js",
+    "runtime-main.js.map": "/react_project/static/js/runtime-main.d412124e.js.map",
+    "static/js/2.48102a88.chunk.js": "/react_project/static/js/2.48102a88.chunk.js",
+    "static/js/2.48102a88.chunk.js.map": "/react_project/static/js/2.48102a88.chunk.js.map",
+    "index.html": "/react_project/index.html",
+    "precache-manifest.c099f9dae5858492ae81591bf28de514.js": "/react_project/precache-manifest.c099f9dae5858492ae81591bf28de514.js",
+    "service-worker.js": "/react_project/service-worker.js",
+    "static/css/main.daa52dd4.chunk.css.map": "/react_project/static/css/main.daa52dd4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d412124e.js",
+    "static/js/2.48102a88.chunk.js",
+    "static/css/main.daa52dd4.chunk.css",
+    "static/js/main.580dd14a.chunk.js"
+  ]
+}
